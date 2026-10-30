@@ -1,0 +1,21 @@
+product_id,product_name,category,unit_cost
+1,Product 01,Home,73.22
+2,Product 02,Office,10.55
+3,Product 03,Electronics,36.05
+4,Product 04,Home,30.77
+5,Product 05,Office,83.12
+6,Product 06,Electronics,77.02
+7,Product 07,Home,99.0
+8,Product 08,Office,16.87
+9,Product 09,Electronics,51.04
+10,Product 10,Home,11.04
+11,Product 11,Office,30.3
+12,Product 12,Electronics,59.55
+13,Product 13,Home,10.71
+14,Product 14,Office,28.28
+15,Product 15,Electronics,74.29
+16,Product 16,Home,63.58
+17,Product 17,Office,30.48
+18,Product 18,Electronics,68.11
+19,Product 19,Home,90.56
+20,Product 20,Office,8.66
